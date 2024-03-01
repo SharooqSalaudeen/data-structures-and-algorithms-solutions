@@ -1,1 +1,1 @@
-# algorithms-and-data-structures-solutions
+# Algorithms and Data Structures Solutions
