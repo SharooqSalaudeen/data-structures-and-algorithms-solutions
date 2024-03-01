@@ -26,6 +26,7 @@ def format_file_names(files):
 def write_to_readme(files):
     with open("README.md", "w") as readme_file:
         readme_file.write("# Data Structures and Algorithms Solutions\n\n")
+        readme_file.write("You can find the detailed explanation to these solutions at [www.sharooq.com](https://www.sharooq.com/tag/leetcode)\n\n")
         for file in files:
             readme_file.write(f"- {file}\n")
 
