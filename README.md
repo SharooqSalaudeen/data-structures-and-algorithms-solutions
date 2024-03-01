@@ -1,6 +1,6 @@
 # Data Structures and Algorithms Solutions
 
-You can find the detailed explanation to these solutions at [www.sharooq.com](https://www.sharooq.com/tag/leetcode)
+You can find the detailed explanation to these solutions at [www.sharooq.com](https://www.sharooq.com/tag/leetcode){:target="_blank"}
 
 - Leetcode 20 valid parentheses.py
 - Leetcode 26 removing duplicates from sorted array
