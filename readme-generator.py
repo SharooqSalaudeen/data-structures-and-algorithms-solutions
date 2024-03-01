@@ -25,7 +25,7 @@ def format_file_names(files):
 # Function to write file names to README.md
 def write_to_readme(files):
     with open("README.md", "w") as readme_file:
-        readme_file.write("# Files in Folder\n\n")
+        readme_file.write("# Data Structures and Algorithms Solutions\n\n")
         for file in files:
             readme_file.write(f"- {file}\n")
 

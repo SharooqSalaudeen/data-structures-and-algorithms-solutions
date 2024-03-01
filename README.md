@@ -1,4 +1,4 @@
-# Files in Folder
+# Data Structures and Algorithms
 
 - Leetcode 20 valid parentheses.py
 - Leetcode 26 removing duplicates from sorted array
