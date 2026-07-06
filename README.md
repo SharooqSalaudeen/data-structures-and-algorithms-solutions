@@ -9,6 +9,7 @@ You can find the detailed explanation to these solutions at [www.sharooq.com/lee
 - Leetcode 26 removing duplicates from sorted array
 - Leetcode 27 removing elements from an integer array
 - Leetcode 36 valid sudoku
+- Leetcode 42 trapping rain water
 - Leetcode 49 group anagram
 - Leetcode 88 merge sorted array
 - Leetcode 125 valid palindrom
