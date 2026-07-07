@@ -22,4 +22,5 @@ You can find the detailed explanation to these solutions at [www.sharooq.com/lee
 - Leetcode 271 encode and decode strings
 - Leetcode 347 top k frequent elements
 - Leetcode 682 solving a baseball scoring puzzle
+- Leetcode 739 daily temperatures
 - Leetcode 1929 solving the array concatenation problem
