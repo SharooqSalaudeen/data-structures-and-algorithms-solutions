@@ -15,6 +15,7 @@ You can find the detailed explanation to these solutions at [www.sharooq.com/lee
 - Leetcode 88 merge sorted array
 - Leetcode 125 valid palindrom
 - Leetcode 128 longest consecutive sequence
+- Leetcode 153 find minimum in rotated sorted array
 - Leetcode 155 designing a minstack with constant time complexity
 - Leetcode 167 two sum ii input array sorted
 - Leetcode 217 contains duplicate
