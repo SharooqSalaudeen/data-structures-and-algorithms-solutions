@@ -27,3 +27,4 @@ You can find the detailed explanation to these solutions at [www.sharooq.com/lee
 - Leetcode 739 daily temperatures
 - Leetcode 853 car fleet
 - Leetcode 1929 solving the array concatenation problem
+- Leetcode  74 search a 2d matrix
