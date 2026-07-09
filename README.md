@@ -15,6 +15,7 @@ You can find the detailed explanation to these solutions at [www.sharooq.com/lee
 - Leetcode 49 group anagram
 - Leetcode 84 largest rectangle in histogram 
 - Leetcode 88 merge sorted array
+- Leetcode 121 best time to buy and sell stock
 - Leetcode 125 valid palindrom
 - Leetcode 128 longest consecutive sequence
 - Leetcode 153 find minimum in rotated sorted array
