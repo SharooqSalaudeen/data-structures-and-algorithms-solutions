@@ -3,6 +3,7 @@
 You can find the detailed explanation to these solutions at [www.sharooq.com/leetcode](https://www.sharooq.com/leetcode)
 
 - Leetcode 1 two sum
+- Leetcode 4 median of two sorted arrays 
 - Leetcode 11 container with most water
 - Leetcode 15 3 sum
 - Leetcode 20 valid parentheses.py
