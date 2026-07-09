@@ -8,6 +8,7 @@ You can find the detailed explanation to these solutions at [www.sharooq.com/lee
 - Leetcode 20 valid parentheses.py
 - Leetcode 26 removing duplicates from sorted array
 - Leetcode 27 removing elements from an integer array
+- Leetcode 33 search in rotated sorted array
 - Leetcode 36 valid sudoku
 - Leetcode 42 trapping rain water
 - Leetcode 49 group anagram
@@ -28,5 +29,6 @@ You can find the detailed explanation to these solutions at [www.sharooq.com/lee
 - Leetcode 739 daily temperatures
 - Leetcode 853 car fleet
 - Leetcode 875 koko eating bananas
+- Leetcode 981 time based key value store
 - Leetcode 1929 solving the array concatenation problem
 - Leetcode  74 search a 2d matrix
