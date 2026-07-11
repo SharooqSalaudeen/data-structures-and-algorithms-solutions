@@ -3,6 +3,7 @@
 You can find the detailed explanation to these solutions at [www.sharooq.com/leetcode](https://www.sharooq.com/leetcode)
 
 - Leetcode 1 two sum
+- Leetcode 3 longest substring without repeating characters
 - Leetcode 4 median of two sorted arrays 
 - Leetcode 11 container with most water
 - Leetcode 15 3 sum
@@ -21,6 +22,7 @@ You can find the detailed explanation to these solutions at [www.sharooq.com/lee
 - Leetcode 153 find minimum in rotated sorted array
 - Leetcode 155 designing a minstack with constant time complexity
 - Leetcode 167 two sum ii input array sorted
+- Leetcode 206 reverse linked list
 - Leetcode 217 contains duplicate
 - Leetcode 238 product of array except self
 - Leetcode 242 valid anagram
