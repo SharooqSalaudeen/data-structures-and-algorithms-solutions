@@ -7,7 +7,9 @@ You can find the detailed explanation to these solutions at [www.sharooq.com/lee
 - Leetcode 4 median of two sorted arrays 
 - Leetcode 11 container with most water
 - Leetcode 15 3 sum
+- Leetcode 19 remove nth node from end of list
 - Leetcode 20 valid parentheses.py
+- Leetcode 21 merge two sorted lists
 - Leetcode 26 removing duplicates from sorted array
 - Leetcode 27 removing elements from an integer array
 - Leetcode 33 search in rotated sorted array
@@ -20,6 +22,7 @@ You can find the detailed explanation to these solutions at [www.sharooq.com/lee
 - Leetcode 125 valid palindrom
 - Leetcode 128 longest consecutive sequence
 - Leetcode 141. linked list cycle
+- Leetcode 143 reorder list
 - Leetcode 153 find minimum in rotated sorted array
 - Leetcode 155 designing a minstack with constant time complexity
 - Leetcode 167 two sum ii input array sorted
