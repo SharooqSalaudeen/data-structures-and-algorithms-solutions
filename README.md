@@ -3,6 +3,7 @@
 You can find the detailed explanation to these solutions at [www.sharooq.com/leetcode](https://www.sharooq.com/leetcode)
 
 - Leetcode 1 two sum
+- Leetcode 2 add two numbers linked list
 - Leetcode 3 longest substring without repeating characters
 - Leetcode 4 median of two sorted arrays 
 - Leetcode 11 container with most water
@@ -21,6 +22,7 @@ You can find the detailed explanation to these solutions at [www.sharooq.com/lee
 - Leetcode 121 best time to buy and sell stock
 - Leetcode 125 valid palindrom
 - Leetcode 128 longest consecutive sequence
+- Leetcode 138 copy list with random pointer
 - Leetcode 141. linked list cycle
 - Leetcode 143 reorder list
 - Leetcode 153 find minimum in rotated sorted array
@@ -31,6 +33,7 @@ You can find the detailed explanation to these solutions at [www.sharooq.com/lee
 - Leetcode 238 product of array except self
 - Leetcode 242 valid anagram
 - Leetcode 271 encode and decode strings
+- Leetcode 287 find the duplicate number
 - Leetcode 347 top k frequent elements
 - Leetcode 682 solving a baseball scoring puzzle
 - Leetcode 704 binary search
