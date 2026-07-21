@@ -19,17 +19,20 @@ You can find the detailed explanation to these solutions at [www.sharooq.com/lee
 - Leetcode 49 group anagram
 - Leetcode 84 largest rectangle in histogram 
 - Leetcode 88 merge sorted array
+- Leetcode 104 maximum depth of binary tree
 - Leetcode 121 best time to buy and sell stock
 - Leetcode 125 valid palindrom
 - Leetcode 128 longest consecutive sequence
 - Leetcode 138 copy list with random pointer
 - Leetcode 141. linked list cycle
 - Leetcode 143 reorder list
+- Leetcode 146 lru cache
 - Leetcode 153 find minimum in rotated sorted array
 - Leetcode 155 designing a minstack with constant time complexity
 - Leetcode 167 two sum ii input array sorted
 - Leetcode 206 reverse linked list
 - Leetcode 217 contains duplicate
+- Leetcode 226 invert binary tree
 - Leetcode 238 product of array except self
 - Leetcode 242 valid anagram
 - Leetcode 271 encode and decode strings
